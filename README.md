@@ -1,2 +1,3 @@
 # myportfolio
-A website to present some of my previous projects
+
+This is a website to present some of my previous projects
